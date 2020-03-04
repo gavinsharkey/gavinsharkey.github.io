@@ -1,11 +1,11 @@
 # Site settings
 author: Gavin Sharkey
-title: 
+title: Gavin's Blog
 header-img: img/home-bg.png
 email: gavinsharkey2016@gmail.com
 copyright_name: Gavin Sharkey
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Something
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  gavinsharkey
